@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @srimanivinay
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Twitter: https://twitter.com/srimanivinay
 
 <!---
